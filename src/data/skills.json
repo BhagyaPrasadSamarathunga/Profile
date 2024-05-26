@@ -1,0 +1,35 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Redux",
+      "imageSrc": "skills/redux.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.webp"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "skills/typescript.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "Jira",
+      "imageSrc": "skills/jira.png"
+    }
+  ]
+  

@@ -1,0 +1,38 @@
+[
+    {
+      "role": "Frontend Engineer",
+      "organisation": "Epapa",
+      "startDate": "May, 2024",
+      "endDate": "present",
+      "experiences": ["Epapa Mobile application"],
+      "imageSrc": "history/epapa.png"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "organisation": "Virtusa",
+      "startDate": "July, 2021",
+      "endDate": "October 2022",
+      "experiences": ["PayCore Human Capital Managment System", "Reduced load times by 50%"],
+      "imageSrc": "history/virtusa.jpeg"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Pearson Lanka",
+      "startDate": "January, 2019",
+      "endDate": "July, 2021",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/pearson.png"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Meta Techno Lanka",
+      "startDate": "July, 2016",
+      "endDate": "December, 2018",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/mtl.jpeg"
+    }
+  ]
+  

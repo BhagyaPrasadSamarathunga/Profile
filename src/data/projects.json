@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Paycor",
+    "imageSrc": "projects/project.png",
+    "description": "Paycor is a Human Capital Management (HCM) platform that modernizes every aspect of people management.",
+    "skills": ["React", "JavaScript", "TypeScript", "HTML", "CSS", "Redux", "Storybook"],
+    "demo": "https://www.paycor.com/"
+  },
+  {
+    "title": "Pearson Mastering",
+    "imageSrc": "projects/project.png",
+    "description": "Learning management system for USA students and Instructor.",
+    "skills": ["React", "JavaScript", "HTML", "CSS", "Redux Saga", "React hooks", "jQuery", "ES6", "Json", "C#", "MySQL", "Stored Procedure"],
+    "demo": "https://mlm.pearson.com/global/"
+  },
+  {
+    "title": "Delivery Fee Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a delivery fee calculator widget..",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/BhagyaPrasadSamarathunga/DeliveryFeeCalculator"
+  }
+]
